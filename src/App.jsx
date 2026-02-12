@@ -102,7 +102,7 @@ function App() {
 
       {noPressed ? (
         <div className="card success-container">
-          <h1 className="success-title">April Fool!!! 😂🤣</h1>
+          <h1 className="success-title">Myileeyy yemanthutiya maa achoo❤️🤣</h1>
           <h3 className="subtext">Indha twist epadi iruku 🤣</h3>
           <video
             className="success-video"
